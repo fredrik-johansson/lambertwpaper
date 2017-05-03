@@ -1,0 +1,56 @@
+\begin{thebibliography}{1}
+
+\bibitem{chapeau2002numerical}
+F.~Chapeau-Blondeau and A.~Monir.
+\newblock Numerical evaluation of the {Lambert W} function and application to
+  generation of generalized {G}aussian noise with exponent 1/2.
+\newblock {\em IEEE Transactions on Signal Processing}, 50(9):2160--2165, 2002.
+
+\bibitem{corless1996lambertw}
+R.~M. Corless, G.~H. Gonnet, D.~E.~G. Hare, D.~J. Jeffrey, and D.~E. Knuth.
+\newblock {On the Lambert W function}.
+\newblock {\em Advances in Computational Mathematics}, 5(1):329--359, 1996.
+
+\bibitem{Johansson2015elementary}
+F.~Johansson.
+\newblock Efficient implementation of elementary functions in the
+  medium-precision range.
+\newblock In {\em 22nd IEEE Symposium on Computer Arithmetic}, ARITH22, pages
+  83--89, 2015.
+
+\bibitem{Johansson2017arb}
+F.~Johansson.
+\newblock Arb: Efficient arbitrary-precision midpoint-radius interval
+  arithmetic.
+\newblock {\em IEEE Transactions on Computers}, PP(99):1--1, 2017.
+\newblock \url{http://dx.doi.org/10.1109/TC.2017.2690633} (to appear).
+
+\bibitem{kalugin2012convergence}
+G.~A. Kalugin and D.~J. Jeffrey.
+\newblock Convergence in {C} of series for the {Lambert W function}.
+\newblock {\em arXiv preprint arXiv:1208.0754}, 2012.
+
+\bibitem{lawrence2012algorithm}
+P.~W. Lawrence, R.~M. Corless, and D.~J. Jeffrey.
+\newblock Algorithm 917: complex double-precision evaluation of the {W}right
+  $\omega$ function.
+\newblock {\em ACM Transactions on Mathematical Software}, 38(3):20, 2012.
+
+\bibitem{moore1979methods}
+R.~E. Moore.
+\newblock {\em Methods and applications of interval analysis}.
+\newblock SIAM, 1979.
+
+\bibitem{veberivc2012lambert}
+D.~Veberi{\v{c}}.
+\newblock {Lambert W} function for applications in physics.
+\newblock {\em Computer Physics Communications}, 183(12):2622--2628, 2012.
+
+\bibitem{ziv1991fast}
+A.~Ziv.
+\newblock Fast evaluation of elementary mathematical functions with correctly
+  rounded last bit.
+\newblock {\em ACM Transactions on Mathematical Software}, 17(3):410--423,
+  1991.
+
+\end{thebibliography}
